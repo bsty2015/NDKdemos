@@ -1,6 +1,6 @@
 #ndk on andorid studio for mac 
 ##1.Configure JDK, NDK path environments
-####I'm using jdk 1.8.0_65 and official ndk.
+####I'm using jdk 1.8.0_45 and official ndk.
 ![MacDown Screenshots](https://github.com/bsty2015/NDKdemos/blob/master/screenshots/path.png)
 ##2. Add javah, ndk-build as External Tools
 ***(Menu Location is 'Settings > Tools > External Tools')***
